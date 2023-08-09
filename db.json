@@ -1,0 +1,110 @@
+{
+    "employees": [
+      {
+        "id": 1,
+        "first_name": "John",
+        "last_name": "Doe",
+        "position_title": "Software Engineer",
+        "date_arrival": "2022-01-15",
+        "status": "Active",
+        "details": {
+          "middle_name": "Michael",
+          "location_city": "New York",
+          "address": "123 Main St",
+          "date_birth": "1990-05-20",
+          "telephone": "555-123-4567"
+        },
+        "position_details": {
+          "hire_date": "2022-01-15",
+          "email": "john.doe@example.com",
+          "salary": "$80,000",
+          "time_in_position": "1 year"
+        }
+      },
+      {
+        "id": 2,
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "position_title": "Marketing Specialist",
+        "date_arrival": "2021-08-05",
+        "status": "Active",
+        "details": {
+          "middle_name": "Marie",
+          "location_city": "Los Angeles",
+          "address": "456 Elm St",
+          "date_birth": "1988-10-10",
+          "telephone": "555-987-6543"
+        },
+        "position_details": {
+          "hire_date": "2021-08-05",
+          "email": "jane.smith@example.com",
+          "salary": "$65,000",
+          "time_in_position": "2 years"
+        }
+      },
+      {
+        "id": 3,
+        "first_name": "Robert",
+        "last_name": "Johnson",
+        "position_title": "Sales Manager",
+        "date_arrival": "2020-03-10",
+        "status": "Active",
+        "details": {
+          "middle_name": "Alan",
+          "location_city": "Chicago",
+          "address": "789 Oak St",
+          "date_birth": "1985-12-15",
+          "telephone": "555-789-1234"
+        },
+        "position_details": {
+          "hire_date": "2020-03-10",
+          "email": "robert.johnson@example.com",
+          "salary": "$90,000",
+          "time_in_position": "3 years"
+        }
+      },
+      {
+        "id": 4,
+        "first_name": "Emily",
+        "last_name": "Williams",
+        "position_title": "HR Coordinator",
+        "date_arrival": "2023-02-28",
+        "status": "Active",
+        "details": {
+          "middle_name": "Grace",
+          "location_city": "Houston",
+          "address": "567 Pine St",
+          "date_birth": "1992-07-18",
+          "telephone": "555-567-8901"
+        },
+        "position_details": {
+          "hire_date": "2023-02-28",
+          "email": "emily.williams@example.com",
+          "salary": "$55,000",
+          "time_in_position": "6 months"
+        }
+      },
+      {
+        "id": 5,
+        "first_name": "Michael",
+        "last_name": "Brown",
+        "position_title": "Accountant",
+        "date_arrival": "2019-11-12",
+        "status": "Active",
+        "details": {
+          "middle_name": "David",
+          "location_city": "San Francisco",
+          "address": "234 Maple St",
+          "date_birth": "1987-03-25",
+          "telephone": "555-234-5678"
+        },
+        "position_details": {
+          "hire_date": "2019-11-12",
+          "email": "michael.brown@example.com",
+          "salary": "$70,000",
+          "time_in_position": "3 years"
+        }
+      }
+    ]
+  }
+  
